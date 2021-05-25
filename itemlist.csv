@@ -1,0 +1,797 @@
+Name;Type;Rarity;Power;Attune?;Use;Curse;Source;Page;Mat. Base Price;No. of Mat.;Material Cost;Labor Cost;Total Cost;Meine Kosten
++1 Arrows;Weapon;Uncommon;Minor;No;Limited; ;DMG;DMG 150;50;4;200;100;300;541
++1 Battleaxe;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Blowgun;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Blowgun Needles;Weapon;Uncommon;Minor;No;Limited; ;DMG;DMG 150;50;4;200;100;300;541
++1 Breastplate Armor;Armor;Rare;Major;No;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8662
++1 Chain Mail Armor;Armor;Rare;Major;No;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8662
++1 Chain Shirt Armor;Armor;Rare;Major;No;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8662
++1 Club;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Crossbow Bolts;Weapon;Uncommon;Minor;No;Limited; ;DMG;DMG 150;50;4;200;100;300;541
++1 Dagger;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Dart;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Flail;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Glaive;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Greataxe;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Greatclub;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Greatsword;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Halberd;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Half Plate Armor;Armor;Rare;Major;No;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8662
++1 Hand Crossbow;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Handaxe;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Heavy Crossbow;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Hide Armor;Armor;Rare;Major;No;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8662
++1 Javelin;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Lance;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Leather Armor;Armor;Rare;Major;No;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8662
++1 Light Crossbow;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Light Hammer;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Longbow;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Longsword;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Mace;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Maul;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Morningstar;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Net;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Padded Armor;Armor;Rare;Major;No;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8662
++1 Pike;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Plate Armor;Armor;Rare;Major;No;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8662
++1 Quarterstaff;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Rapier;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Ring Mail Armor;Armor;Rare;Major;No;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8662
++1 Rod of the Pact Keeper;Rod;Uncommon;Major;Yes;Permanent; ;DMG;DMG 197;50;8;400;100;500;1097
++1 Scale Mail Armor;Armor;Rare;Major;No;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8662
++1 Scimitar;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Shield;Armor;Uncommon;Major;No;Permanent; ;DMG;DMG 200;50;8;400;100;500;1155
++1 Shortbow;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Shortsword;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Sickle;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Sling;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Sling Bullets;Weapon;Uncommon;Minor;No;Limited; ;DMG;DMG 150;50;4;200;100;300;541
++1 Spear;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Splint Armor;Armor;Rare;Major;No;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8662
++1 Studded Leather Armor;Armor;Rare;Major;No;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8662
++1 Trident;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Wand of the War Mage;Wand;Uncommon;Major;Yes;Permanent; ;DMG;DMG 212;50;8;400;100;500;1097
++1 War Pick;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Warhammer;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++1 Whip;Weapon;Uncommon;Major;No;Permanent; ;DMG;DMG 213;50;8;400;100;500;1155
++2 Arrows;Weapon;Rare;Minor;No;Limited; ;DMG;DMG 150;500;4;2000;1000;3000;4061
++2 Battleaxe;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Blowgun;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Blowgun Needles;Weapon;Rare;Minor;No;Limited; ;DMG;DMG 150;500;4;2000;1000;3000;4061
++2 Breastplate Armor;Armor;Very Rare;Major;No;Permanent; ;DMG;DMG 152;5000;8;40000;10000;50000;57750
++2 Chain Mail Armor;Armor;Very Rare;Major;No;Permanent; ;DMG;DMG 152;5000;8;40000;10000;50000;57750
++2 Chain Shirt Armor;Armor;Very Rare;Major;No;Permanent; ;DMG;DMG 152;5000;8;40000;10000;50000;57750
++2 Club;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Crossbow Bolts;Weapon;Rare;Minor;No;Limited; ;DMG;DMG 150;500;4;2000;1000;3000;4061
++2 Dagger;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Dart;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Flail;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Glaive;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Greataxe;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Greatclub;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Greatsword;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Halberd;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Half Plate Armor;Armor;Very Rare;Major;No;Permanent; ;DMG;DMG 152;5000;8;40000;10000;50000;57750
++2 Hand Crossbow;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Handaxe;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Heavy Crossbow;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Hide Armor;Armor;Very Rare;Major;No;Permanent; ;DMG;DMG 152;5000;8;40000;10000;50000;57750
++2 Javelin;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Lance;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Leather Armor;Armor;Very Rare;Major;No;Permanent; ;DMG;DMG 152;5000;8;40000;10000;50000;57750
++2 Light Crossbow;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Light Hammer;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Longbow;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Longsword;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Mace;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Maul;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Morningstar;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Net;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Padded Armor;Armor;Very Rare;Major;No;Permanent; ;DMG;DMG 152;5000;8;40000;10000;50000;57750
++2 Pike;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Plate Armor;Armor;Very Rare;Major;No;Permanent; ;DMG;DMG 152;5000;8;40000;10000;50000;57750
++2 Quarterstaff;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Rapier;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Ring Mail Armor;Armor;Very Rare;Major;No;Permanent; ;DMG;DMG 152;5000;8;40000;10000;50000;57750
++2 Rod of the Pact Keeper;Rod;Rare;Major;Yes;Permanent; ;DMG;DMG 197;500;8;4000;1000;5000;8229
++2 Scale Mail Armor;Armor;Very Rare;Major;No;Permanent; ;DMG;DMG 152;5000;8;40000;10000;50000;57750
++2 Scimitar;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Shield;Armor;Rare;Major;No;Permanent; ;DMG;DMG 200;500;8;4000;1000;5000;8662
++2 Shortbow;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Shortsword;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Sickle;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Sling;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Sling Bullets;Weapon;Rare;Minor;No;Limited; ;DMG;DMG 150;500;4;2000;1000;3000;4061
++2 Spear;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Splint Armor;Armor;Very Rare;Major;No;Permanent; ;DMG;DMG 152;5000;8;40000;10000;50000;57750
++2 Studded Leather Armor;Armor;Very Rare;Major;No;Permanent; ;DMG;DMG 152;5000;8;40000;10000;50000;57750
++2 Trident;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Wand of the War Mage;Wand;Rare;Major;Yes;Permanent; ;DMG;DMG 212;500;8;4000;1000;5000;8229
++2 War Pick;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Warhammer;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++2 Whip;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 213;500;8;4000;1000;5000;8662
++3 Arrows;Weapon;Very Rare;Minor;No;Limited; ;DMG;DMG 150;5000;4;20000;10000;30000;27075
++3 Battleaxe;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Blowgun;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Blowgun Needles;Weapon;Very Rare;Minor;No;Limited; ;DMG;DMG 150;5000;4;20000;10000;30000;27075
++3 Breastplate Armor;Armor;Legendary;Major;No;Permanent; ;DMG;DMG 152;25000;8;200000;50000;250000;288750
++3 Chain Mail Armor;Armor;Legendary;Major;No;Permanent; ;DMG;DMG 152;25000;8;200000;50000;250000;288750
++3 Chain Shirt Armor;Armor;Legendary;Major;No;Permanent; ;DMG;DMG 152;25000;8;200000;50000;250000;288750
++3 Club;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Crossbow Bolts;Weapon;Very Rare;Minor;No;Limited; ;DMG;DMG 150;5000;4;20000;10000;30000;27075
++3 Dagger;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Dart;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Flail;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Glaive;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Greataxe;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Greatclub;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Greatsword;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Halberd;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Half Plate Armor;Armor;Legendary;Major;No;Permanent; ;DMG;DMG 152;25000;8;200000;50000;250000;288750
++3 Hand Crossbow;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Handaxe;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Heavy Crossbow;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Hide Armor;Armor;Legendary;Major;No;Permanent; ;DMG;DMG 152;25000;8;200000;50000;250000;288750
++3 Javelin;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Lance;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Leather Armor;Armor;Legendary;Major;No;Permanent; ;DMG;DMG 152;25000;8;200000;50000;250000;288750
++3 Light Crossbow;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Light Hammer;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Longbow;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Longsword;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Mace;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Maul;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Morningstar;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Net;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Padded Armor;Armor;Legendary;Major;No;Permanent; ;DMG;DMG 152;25000;8;200000;50000;250000;288750
++3 Pike;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Plate Armor;Armor;Legendary;Major;No;Permanent; ;DMG;DMG 152;25000;8;200000;50000;250000;288750
++3 Quarterstaff;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Rapier;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Ring Mail Armor;Armor;Legendary;Major;No;Permanent; ;DMG;DMG 152;25000;8;200000;50000;250000;288750
++3 Rod of the Pact Keeper;Rod;Very Rare;Major;Yes;Permanent; ;DMG;DMG 197;5000;8;40000;10000;50000;54862
++3 Scale Mail Armor;Armor;Legendary;Major;No;Permanent; ;DMG;DMG 152;25000;8;200000;50000;250000;288750
++3 Scimitar;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Shield;Armor;Very Rare;Major;No;Permanent; ;DMG;DMG 200;5000;8;40000;10000;50000;57750
++3 Shortbow;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Shortsword;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Sickle;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Sling;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Sling Bullets;Weapon;Very Rare;Minor;No;Limited; ;DMG;DMG 150;5000;4;20000;10000;30000;27075
++3 Spear;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Splint Armor;Armor;Legendary;Major;No;Permanent; ;DMG;DMG 152;25000;8;200000;50000;250000;288750
++3 Studded Leather Armor;Armor;Legendary;Major;No;Permanent; ;DMG;DMG 152;25000;8;200000;50000;250000;288750
++3 Trident;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Wand of the War Mage;Wand;Very Rare;Major;Yes;Permanent; ;DMG;DMG 212;5000;8;40000;10000;50000;54862
++3 War Pick;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Warhammer;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
++3 Whip;Weapon;Very Rare;Major;No;Permanent; ;DMG;DMG 213;5000;8;40000;10000;50000;57750
+Adamant Breastplate Armor;Armor;Uncommon;Major;No;Permanent; ;DMG;DMG 150;50;8;400;100;500;1155
+Adamant Chain Mail Armor;Armor;Uncommon;Major;No;Permanent; ;DMG;DMG 150;50;8;400;100;500;1155
+Adamant Chain Shirt Armor;Armor;Uncommon;Major;No;Permanent; ;DMG;DMG 150;50;8;400;100;500;1155
+Adamant Half Plate Armor;Armor;Uncommon;Major;No;Permanent; ;DMG;DMG 150;50;8;400;100;500;1155
+Adamant Plate Armor;Armor;Uncommon;Major;No;Permanent; ;DMG;DMG 150;50;8;400;100;500;1155
+Adamant Ring Mail Armor;Armor;Uncommon;Major;No;Permanent; ;DMG;DMG 150;50;8;400;100;500;1155
+Adamant Scale Mail Armor;Armor;Uncommon;Major;No;Permanent; ;DMG;DMG 150;50;8;400;100;500;1155
+Adamant Splint Armor;Armor;Uncommon;Major;No;Permanent; ;DMG;DMG 150;50;8;400;100;500;1155
+Alchemy Jug;Wondrous Item;Uncommon;Minor;No;Permanent; ;DMG;DMG 150;50;6;300;100;400;798
+Amulet of Health;Wondrous Item;Rare;Major;Yes;Permanent; ;DMG;DMG 150;500;8;4000;1000;5000;8229
+Amulet of Proof Against Detection and Location;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 150;50;8;400;100;500;1097
+Amulet of the Planes;Wondrous Item;Very Rare;Major;Yes;Permanent; ;DMG;DMG 150;5000;8;40000;10000;50000;54862
+Answerer, Sword of Answering;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 206;25000;8;200000;50000;250000;274312
+Apparatus of Kwalish;Wondrous Item;Legendary;Major;No;Permanent; ;DMG;DMG 151;25000;8;200000;50000;250000;288750
+Arrow of Slaying;Weapon;Very Rare;Minor;No;Permanent; ;DMG;DMG 152;5000;6;30000;10000;40000;39900
+Arrow-Catching Shield;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Back Talker, Sword of Answering;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 206;25000;8;200000;50000;250000;274312
+Bag of Beans;Wondrous Item;Rare;Minor;No;Limited; ;DMG;DMG 152;500;4;2000;1000;3000;4061
+Bag of Devouring;Wondrous Item;Very Rare;Minor;No;Permanent;Cursed;DMG;DMG 153;5000;6;30000;10000;40000;19950
+Bag of Holding;Wondrous Item;Uncommon;Minor;No;Permanent; ;DMG;DMG 153;50;6;300;100;400;798
+Bag of Tricks;Wondrous Item;Uncommon;Major;No;Charged; ;DMG;DMG 154;50;7;350;100;450;990
+Battleaxe of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Bead of Force;Wondrous Item;Rare;Minor;No;Limited; ;DMG;DMG 154;500;4;2000;1000;3000;4061
+Belt of Cloud Giant Strength;Wondrous Item;Legendary;Major;Yes;Permanent; ;DMG;DMG 155;25000;8;200000;50000;250000;274312
+Belt of Dwarvenkind;Wondrous Item;Rare;Major;Yes;Permanent; ;DMG;DMG 155;500;8;4000;1000;5000;8229
+Belt of Fire Giant Strength;Wondrous Item;Very Rare;Major;Yes;Permanent; ;DMG;DMG 155;5000;8;40000;10000;50000;54862
+Belt of Frost Giant Strength;Wondrous Item;Very Rare;Major;Yes;Permanent; ;DMG;DMG 155;5000;8;40000;10000;50000;54862
+Belt of Hill Giant Strength;Wondrous Item;Rare;Major;Yes;Permanent; ;DMG;DMG 155;500;8;4000;1000;5000;8229
+Belt of Stone Giant Strength;Wondrous Item;Very Rare;Major;Yes;Permanent; ;DMG;DMG 155;5000;8;40000;10000;50000;54862
+Belt of Storm Giant Strength;Wondrous Item;Legendary;Major;Yes;Permanent; ;DMG;DMG 155;25000;8;200000;50000;250000;274312
+Berserker Battleaxe;Weapon;Rare;Major;Yes;Permanent;Cursed;DMG;DMG 155;500;8;4000;1000;5000;4114
+Berserker Greataxe;Weapon;Rare;Major;Yes;Permanent;Cursed;DMG;DMG 155;500;8;4000;1000;5000;4114
+Berserker Handaxe;Weapon;Rare;Major;Yes;Permanent;Cursed;DMG;DMG 155;500;8;4000;1000;5000;4114
+Blowgun of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Boots of Elvenkind;Wondrous Item;Uncommon;Major;No;Permanent; ;DMG;DMG 155;50;8;400;100;500;1155
+Boots of Levitation;Wondrous Item;Rare;Major;Yes;Permanent; ;DMG;DMG 155;500;8;4000;1000;5000;8229
+Boots of Speed;Wondrous Item;Rare;Major;Yes;Permanent; ;DMG;DMG 155;500;8;4000;1000;5000;8229
+Boots of Striding and Springing;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 156;50;8;400;100;500;1097
+Boots of the Winterlands;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 156;50;8;400;100;500;1097
+Bowl of Commanding Water Elementals;Wondrous Item;Rare;Major;No;Permanent; ;DMG;DMG 156;500;8;4000;1000;5000;8662
+Bracers of Archery;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 156;50;8;400;100;500;1097
+Bracers of Defense;Wondrous Item;Rare;Major;Yes;Permanent; ;DMG;DMG 156;500;8;4000;1000;5000;8229
+Brazier of Commanding Fire Elementals;Wondrous Item;Rare;Major;No;Permanent; ;DMG;DMG 156;500;8;4000;1000;5000;8662
+Breastplate Armor of Acid Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Breastplate Armor of Cold Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Breastplate Armor of Fire Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Breastplate Armor of Force Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Breastplate Armor of Lightning Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Breastplate Armor of Necrotic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Breastplate Armor of Poison Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Breastplate Armor of Pyschic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Breastplate Armor of Radiant Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Breastplate Armor of Thunder Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Brooch of Shielding;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 156;50;8;400;100;500;1097
+Broom of Flying;Wondrous Item;Uncommon;Major;No;Permanent; ;DMG;DMG 156;50;8;400;100;500;1155
+Candle of Invocation;Wondrous Item;Very Rare;Major;Yes;Limited; ;DMG;DMG 157;5000;6;30000;10000;40000;39710
+Cap of Water Breathing;Wondrous Item;Uncommon;Minor;No;Permanent; ;DMG;DMG 157;50;6;300;100;400;798
+Cape of the Mountebank;Wondrous Item;Rare;Major;No;Permanent; ;DMG;DMG 157;500;8;4000;1000;5000;8662
+Carpet of Flying;Wondrous Item;Very Rare;Major;No;Permanent; ;DMG;DMG 157;5000;8;40000;10000;50000;57750
+Censer of Controlling Air Elementals;Wondrous Item;Rare;Major;No;Permanent; ;DMG;DMG 158;500;8;4000;1000;5000;8662
+Chain Mail Armor of Acid Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Mail Armor of Cold Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Mail Armor of Fire Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Mail Armor of Force Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Mail Armor of Lightning Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Mail Armor of Necrotic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Mail Armor of Poison Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Mail Armor of Pyschic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Mail Armor of Radiant Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Mail Armor of Thunder Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Shirt Armor of Acid Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Shirt Armor of Cold Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Shirt Armor of Fire Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Shirt Armor of Force Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Shirt Armor of Lightning Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Shirt Armor of Necrotic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Shirt Armor of Poison Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Shirt Armor of Pyschic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Shirt Armor of Radiant Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chain Shirt Armor of Thunder Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Chime of Opening;Wondrous Item;Rare;Minor;No;Limited; ;DMG;DMG 158;500;4;2000;1000;3000;4061
+Circlet of Blasting;Wondrous Item;Uncommon;Major;No;Charged; ;DMG;DMG 158;50;7;350;100;450;990
+Cloak of Arachnida;Wondrous Item;Very Rare;Major;Yes;Permanent; ;DMG;DMG 158;5000;8;40000;10000;50000;54862
+Cloak of Displacement;Wondrous Item;Rare;Major;Yes;Permanent; ;DMG;DMG 158;500;8;4000;1000;5000;8229
+Cloak of Elvenkind;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 158;50;8;400;100;500;1097
+Cloak of Invisibility;Wondrous Item;Legendary;Major;Yes;Charged; ;DMG;DMG 158;25000;7;175000;50000;225000;235125
+Cloak of Protection;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 159;50;8;400;100;500;1097
+Cloak of the Bat;Wondrous Item;Rare;Major;Yes;Permanent; ;DMG;DMG 159;500;8;4000;1000;5000;8229
+Cloak of the Manta Ray;Wondrous Item;Uncommon;Minor;No;Permanent; ;DMG;DMG 159;50;6;300;100;400;798
+Club of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Concluder, Sword of Answering;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 206;25000;8;200000;50000;250000;274312
+Crystal Ball;Wondrous Item;Very Rare;Major;Yes;Permanent; ;DMG;DMG 159;5000;8;40000;10000;50000;54862
+Crystal Ball of Mind Reading;Wondrous Item;Legendary;Major;Yes;Permanent; ;DMG;DMG 159;25000;8;200000;50000;250000;274312
+Crystal Ball of Telepathy;Wondrous Item;Legendary;Major;Yes;Permanent; ;DMG;DMG 159;25000;8;200000;50000;250000;274312
+Crystal Ball of True Seeing;Wondrous Item;Legendary;Major;Yes;Permanent; ;DMG;DMG 159;25000;8;200000;50000;250000;274312
+Cube of Force;Wondrous Item;Rare;Major;Yes;Charged; ;DMG;DMG 159;500;7;3500;1000;4500;7053
+Cubic Gate;Wondrous Item;Legendary;Major;No;Charged; ;DMG;DMG 160;25000;7;175000;50000;225000;247500
+Daern's Instant Fortress;Wondrous Item;Rare;Major;No;Permanent; ;DMG;DMG 160;500;8;4000;1000;5000;8662
+Dagger of Venom;Weapon;Rare;Major;No;Charged; ;DMG;DMG 161;500;7;3500;1000;4500;7425
+Dagger of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Dancing Greatsword;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 161;5000;8;40000;10000;50000;54862
+Dancing Longsword;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 161;5000;8;40000;10000;50000;54862
+Dancing Rapier;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 161;5000;8;40000;10000;50000;54862
+Dancing Scimitar;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 161;5000;8;40000;10000;50000;54862
+Dancing Shortsword;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 161;5000;8;40000;10000;50000;54862
+Dart of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Decanter of Endless Water;Wondrous Item;Uncommon;Minor;No;Permanent; ;DMG;DMG 161;50;6;300;100;400;798
+Deck of Illusions;Wondrous Item;Uncommon;Major;No;Limited; ;DMG;DMG 161;50;6;300;100;400;836
+Deck of Many Things;Wondrous Item;Legendary;Major;No;Limited; ;DMG;DMG 162;25000;6;150000;50000;200000;209000
+Defender Greatsword;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 164;25000;8;200000;50000;250000;274312
+Defender Longsword;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 164;25000;8;200000;50000;250000;274312
+Defender Rapier;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 164;25000;8;200000;50000;250000;274312
+Defender Scimitar;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 164;25000;8;200000;50000;250000;274312
+Defender Shortsword;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 164;25000;8;200000;50000;250000;274312
+Demon Plate Armor;Armor;Very Rare;Major;Yes;Permanent;Cursed;DMG;DMG 165;5000;8;40000;10000;50000;27431
+Dimensional Shackles;Wondrous Item;Rare;Major;No;Permanent; ;DMG;DMG 165;500;8;4000;1000;5000;8662
+Dragon Scale Mail Armor;Armor;Very Rare;Major;Yes;Permanent; ;DMG;DMG 165;5000;8;40000;10000;50000;54862
+Dragon Slayer Greatsword;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 166;500;8;4000;1000;5000;8662
+Dragon Slayer Longsword;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 166;500;8;4000;1000;5000;8662
+Dragon Slayer Rapier;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 166;500;8;4000;1000;5000;8662
+Dragon Slayer Scimitar;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 166;500;8;4000;1000;5000;8662
+Dragon Slayer Shortsword;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 166;500;8;4000;1000;5000;8662
+Driftglobe;Wondrous Item;Uncommon;Minor;No;Charged; ;DMG;DMG 166;50;5;250;100;350;665
+Dust of Disappearance;Wondrous Item;Uncommon;Minor;No;Single; ;DMG;DMG 166;50;3;150;100;250;427
+Dust of Dryness;Wondrous Item;Uncommon;Minor;No;Limited; ;DMG;DMG 166;50;4;200;100;300;541
+Dust of Sneezing and Choking;Wondrous Item;Uncommon;Minor;No;Single;Cursed;DMG;DMG 166;50;3;150;100;250;213
+Dwarven Plate Armor;Armor;Very Rare;Major;No;Permanent; ;DMG;DMG 167;5000;8;40000;10000;50000;57750
+Dwarven Thrower;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 167;5000;8;40000;10000;50000;54862
+Efreeti Bottle;Wondrous Item;Very Rare;Major;No;Limited; ;DMG;DMG 167;5000;6;30000;10000;40000;41800
+Efreeti Chain Mail Armor;Armor;Legendary;Major;Yes;Permanent; ;DMG;DMG 167;25000;8;200000;50000;250000;274312
+Elemental Gem;Wondrous Item;Uncommon;Minor;No;Single; ;DMG;DMG 167;50;3;150;100;250;427
+Elixir of Health;Potion;Rare;Minor;No;Single; ;DMG;DMG 168;500;3;1500;1000;2500;2565
+Elven Chain Shirt Armor;Armor;Rare;Major;No;Permanent; ;DMG;DMG 168;500;8;4000;1000;5000;8662
+Eversmoking Bottle;Wondrous Item;Uncommon;Major;No;Permanent; ;DMG;DMG 168;50;8;400;100;500;1155
+Eyes of Charming;Wondrous Item;Uncommon;Major;Yes;Charged; ;DMG;DMG 168;50;7;350;100;450;940
+Eyes of Minute Seeing;Wondrous Item;Uncommon;Minor;No;Permanent; ;DMG;DMG 168;50;6;300;100;400;798
+Eyes of the Eagle;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 168;50;8;400;100;500;1097
+Figurine of Wondrous Power, Bronze Griffon;Wondrous Item;Rare;Major;No;Charged; ;DMG;DMG 169;500;7;3500;1000;4500;7425
+Figurine of Wondrous Power, Ebony Fly;Wondrous Item;Rare;Major;No;Charged; ;DMG;DMG 169;500;7;3500;1000;4500;7425
+Figurine of Wondrous Power, Golden Lions;Wondrous Item;Rare;Major;No;Charged; ;DMG;DMG 169;500;7;3500;1000;4500;7425
+Figurine of Wondrous Power, Ivory Goats;Wondrous Item;Rare;Major;No;Charged; ;DMG;DMG 169;500;7;3500;1000;4500;7425
+Figurine of Wondrous Power, Marble Elephant;Wondrous Item;Rare;Major;No;Charged; ;DMG;DMG 170;500;7;3500;1000;4500;7425
+Figurine of Wondrous Power, Obsidian Steed;Wondrous Item;Very Rare;Major;No;Charged; ;DMG;DMG 170;5000;7;35000;10000;45000;49500
+Figurine of Wondrous Power, Onyx Dog;Wondrous Item;Rare;Major;No;Charged; ;DMG;DMG 170;500;7;3500;1000;4500;7425
+Figurine of Wondrous Power, Serpentine Owl;Wondrous Item;Rare;Major;No;Charged; ;DMG;DMG 170;500;7;3500;1000;4500;7425
+Figurine of Wondrous Power, Silver Raven;Wondrous Item;Uncommon;Major;No;Charged; ;DMG;DMG 170;50;7;350;100;450;990
+Flail of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Flame Tongue Greatsword;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 170;500;8;4000;1000;5000;8229
+Flame Tongue Longsword;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 170;500;8;4000;1000;5000;8229
+Flame Tongue Rapier;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 170;500;8;4000;1000;5000;8229
+Flame Tongue Scimitar;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 170;500;8;4000;1000;5000;8229
+Flame Tongue Shortsword;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 170;500;8;4000;1000;5000;8229
+Folding Boat;Wondrous Item;Rare;Minor;No;Permanent; ;DMG;DMG 170;500;6;3000;1000;4000;5985
+Frost Brand Greatsword;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 171;5000;8;40000;10000;50000;54862
+Frost Brand Longsword;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 171;5000;8;40000;10000;50000;54862
+Frost Brand Rapier;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 171;5000;8;40000;10000;50000;54862
+Frost Brand Scimitar;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 171;5000;8;40000;10000;50000;54862
+Frost Brand Shortsword;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 171;5000;8;40000;10000;50000;54862
+Gauntlets of Ogre Power;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 171;50;8;400;100;500;1097
+Gem of Brightness;Wondrous Item;Uncommon;Major;No;Limited; ;DMG;DMG 171;50;6;300;100;400;836
+Gem of Seeing;Wondrous Item;Rare;Major;Yes;Charged; ;DMG;DMG 172;500;7;3500;1000;4500;7053
+Giant Slayer Battleaxe;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 172;500;8;4000;1000;5000;8662
+Giant Slayer Greataxe;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 172;500;8;4000;1000;5000;8662
+Giant Slayer Greatsword;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 172;500;8;4000;1000;5000;8662
+Giant Slayer Handaxe;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 172;500;8;4000;1000;5000;8662
+Giant Slayer Longsword;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 172;500;8;4000;1000;5000;8662
+Giant Slayer Rapier;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 172;500;8;4000;1000;5000;8662
+Giant Slayer Scimitar;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 172;500;8;4000;1000;5000;8662
+Giant Slayer Shortsword;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 172;500;8;4000;1000;5000;8662
+Glaive of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Glamoured Studded Leather Armor;Armor;Rare;Major;No;Permanent; ;DMG;DMG 172;500;8;4000;1000;5000;8662
+Gloves of Missile Snaring;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 172;50;8;400;100;500;1097
+Gloves of Swimming and Climbing;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 172;50;8;400;100;500;1097
+Gloves of Thievery;Wondrous Item;Uncommon;Major;No;Permanent; ;DMG;DMG 172;50;8;400;100;500;1155
+Goggles of Night;Wondrous Item;Uncommon;Minor;No;Permanent; ;DMG;DMG 172;50;6;300;100;400;798
+Greataxe of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Greatclub of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Greatsword of Life Stealing;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 206;500;8;4000;1000;5000;8229
+Greatsword of Sharpness;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 206;5000;8;40000;10000;50000;54862
+Greatsword of Vengeance;Weapon;Uncommon;Major;Yes;Permanent;Cursed;DMG;DMG 206;50;8;400;100;500;548
+Greatsword of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Greatsword of Wounding;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 207;500;8;4000;1000;5000;8229
+Halberd of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Half Plate Armor of Acid Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Half Plate Armor of Cold Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Half Plate Armor of Fire Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Half Plate Armor of Force Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Half Plate Armor of Lightning Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Half Plate Armor of Necrotic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Half Plate Armor of Poison Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Half Plate Armor of Pyschic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Half Plate Armor of Radiant Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Half Plate Armor of Thunder Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Hammer of Thunderbolts;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 173;25000;8;200000;50000;250000;274312
+Hand Crossbow of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Handaxe of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Hat of Disguise;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 173;50;8;400;100;500;1097
+Headband of Intellect;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 173;50;8;400;100;500;1097
+Heavy Crossbow of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Helm of Brilliance;Wondrous Item;Very Rare;Major;Yes;Limited; ;DMG;DMG 173;5000;6;30000;10000;40000;39710
+Helm of Comprehending Languages;Wondrous Item;Uncommon;Minor;No;Permanent; ;DMG;DMG 173;50;6;300;100;400;798
+Helm of Telepathy;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 174;50;8;400;100;500;1097
+Helm of Teleportation;Wondrous Item;Rare;Major;Yes;Charged; ;DMG;DMG 174;500;7;3500;1000;4500;7053
+Heward's Handy Haversack;Wondrous Item;Rare;Minor;No;Permanent; ;DMG;DMG 174;500;6;3000;1000;4000;5985
+Hide Armor of Acid Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Hide Armor of Cold Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Hide Armor of Fire Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Hide Armor of Force Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Hide Armor of Lightning Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Hide Armor of Necrotic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Hide Armor of Poison Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Hide Armor of Pyschic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Hide Armor of Radiant Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Hide Armor of Thunder Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Holy Avenger Greatsword;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 174;25000;8;200000;50000;250000;274312
+Holy Avenger Longsword;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 174;25000;8;200000;50000;250000;274312
+Holy Avenger Rapier;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 174;25000;8;200000;50000;250000;274312
+Holy Avenger Scimitar;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 174;25000;8;200000;50000;250000;274312
+Holy Avenger Shortsword;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 174;25000;8;200000;50000;250000;274312
+Horn of Blasting;Wondrous Item;Rare;Major;No;Charged; ;DMG;DMG 174;500;7;3500;1000;4500;7425
+Horn of Valhalla, Brass;Wondrous Item;Rare;Major;No;Charged; ;DMG;DMG 175;500;7;3500;1000;4500;7425
+Horn of Valhalla, Bronze;Wondrous Item;Very Rare;Major;No;Charged; ;DMG;DMG 175;5000;7;35000;10000;45000;49500
+Horn of Valhalla, Iron;Wondrous Item;Legendary;Major;No;Charged; ;DMG;DMG 175;25000;7;175000;50000;225000;247500
+Horn of Valhalla, Silver;Wondrous Item;Rare;Major;No;Charged; ;DMG;DMG 175;500;7;3500;1000;4500;7425
+Horseshoes of Speed;Wondrous Item;Rare;Minor;No;Permanent; ;DMG;DMG 175;500;6;3000;1000;4000;5985
+Horseshoes of a Zephyr;Wondrous Item;Very Rare;Minor;No;Permanent; ;DMG;DMG 175;5000;6;30000;10000;40000;39900
+Immovable Rod;Rod;Uncommon;Minor;No;Permanent; ;DMG;DMG 175;50;6;300;100;400;798
+Instrument of the Bards, Anstruth Harp;Wondrous Item;Very Rare;Major;Yes;Charged; ;DMG;DMG 176;5000;7;35000;10000;45000;47025
+Instrument of the Bards, Canaith Mandolin;Wondrous Item;Rare;Major;Yes;Charged; ;DMG;DMG 176;500;7;3500;1000;4500;7053
+Instrument of the Bards, Cli Lyre;Wondrous Item;Rare;Major;Yes;Charged; ;DMG;DMG 176;500;7;3500;1000;4500;7053
+Instrument of the Bards, Doss Lute;Wondrous Item;Uncommon;Major;Yes;Charged; ;DMG;DMG 176;50;7;350;100;450;940
+Instrument of the Bards, Fochlucan Bandore;Wondrous Item;Uncommon;Major;Yes;Charged; ;DMG;DMG 176;50;7;350;100;450;940
+Instrument of the Bards, Mac-Fuirmidh Cittern;Wondrous Item;Uncommon;Major;Yes;Charged; ;DMG;DMG 176;50;7;350;100;450;940
+Instrument of the Bards, Ollamh Harp;Wondrous Item;Legendary;Major;Yes;Charged; ;DMG;DMG 176;25000;7;175000;50000;225000;235125
+Ioun Stone, Absorption;Wondrous Item;Very Rare;Major;Yes;Limited; ;DMG;DMG 176;5000;6;30000;10000;40000;39710
+Ioun Stone, Agility;Wondrous Item;Very Rare;Major;Yes;Permanent; ;DMG;DMG 176;5000;8;40000;10000;50000;54862
+Ioun Stone, Awareness;Wondrous Item;Rare;Major;Yes;Permanent; ;DMG;DMG 176;500;8;4000;1000;5000;8229
+Ioun Stone, Fortitude;Wondrous Item;Very Rare;Major;Yes;Permanent; ;DMG;DMG 176;5000;8;40000;10000;50000;54862
+Ioun Stone, Greater Absorption;Wondrous Item;Legendary;Major;Yes;Limited; ;DMG;DMG 176;25000;6;150000;50000;200000;198550
+Ioun Stone, Insight;Wondrous Item;Very Rare;Major;Yes;Permanent; ;DMG;DMG 176;5000;8;40000;10000;50000;54862
+Ioun Stone, Intellect;Wondrous Item;Very Rare;Major;Yes;Permanent; ;DMG;DMG 176;5000;8;40000;10000;50000;54862
+Ioun Stone, Leadership;Wondrous Item;Very Rare;Major;Yes;Permanent; ;DMG;DMG 176;5000;8;40000;10000;50000;54862
+Ioun Stone, Mastery;Wondrous Item;Legendary;Major;Yes;Permanent; ;DMG;DMG 176;25000;8;200000;50000;250000;274312
+Ioun Stone, Protection;Wondrous Item;Rare;Major;Yes;Permanent; ;DMG;DMG 176;500;8;4000;1000;5000;8229
+Ioun Stone, Regeneration;Wondrous Item;Legendary;Major;Yes;Permanent; ;DMG;DMG 176;25000;8;200000;50000;250000;274312
+Ioun Stone, Reserve;Wondrous Item;Rare;Major;Yes;Permanent; ;DMG;DMG 176;500;8;4000;1000;5000;8229
+Ioun Stone, Strength;Wondrous Item;Very Rare;Major;Yes;Permanent; ;DMG;DMG 176;5000;8;40000;10000;50000;54862
+Ioun Stone, Sustenance;Wondrous Item;Rare;Major;Yes;Permanent; ;DMG;DMG 176;500;8;4000;1000;5000;8229
+Iron Bands of Bilarro;Wondrous Item;Rare;Major;No;Charged; ;DMG;DMG 177;500;7;3500;1000;4500;7425
+Iron Flask;Wondrous Item;Legendary;Major;No;Single; ;DMG;DMG 178;25000;5;125000;50000;175000;173250
+Javelin of Lightning;Weapon;Uncommon;Major;No;Charged; ;DMG;DMG 178;50;7;350;100;450;990
+Javelin of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Keoghtom's Ointment;Wondrous Item;Uncommon;Minor;No;Limited; ;DMG;DMG 179;50;4;200;100;300;541
+Lance of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Lantern of Revealing;Wondrous Item;Uncommon;Minor;No;Permanent; ;DMG;DMG 179;50;6;300;100;400;798
+Last Quip, Sword of Answering;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 206;25000;8;200000;50000;250000;274312
+Leather Armor of Acid Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Leather Armor of Cold Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Leather Armor of Fire Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Leather Armor of Force Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Leather Armor of Lightning Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Leather Armor of Necrotic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Leather Armor of Poison Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Leather Armor of Pyschic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Leather Armor of Radiant Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Leather Armor of Thunder Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Light Crossbow of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Light Hammer of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Longbow of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Longsword of Life Stealing;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 206;500;8;4000;1000;5000;8229
+Longsword of Sharpness;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 206;5000;8;40000;10000;50000;54862
+Longsword of Vengeance;Weapon;Uncommon;Major;Yes;Permanent;Cursed;DMG;DMG 206;50;8;400;100;500;548
+Longsword of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Longsword of Wounding;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 207;500;8;4000;1000;5000;8229
+Luck Blade Greatsword;Weapon;Legendary;Major;Yes;Charged; ;DMG;DMG 179;25000;7;175000;50000;225000;235125
+Luck Blade Longsword;Weapon;Legendary;Major;Yes;Charged; ;DMG;DMG 179;25000;7;175000;50000;225000;235125
+Luck Blade Rapier;Weapon;Legendary;Major;Yes;Charged; ;DMG;DMG 179;25000;7;175000;50000;225000;235125
+Luck Blade Scimitar;Weapon;Legendary;Major;Yes;Charged; ;DMG;DMG 179;25000;7;175000;50000;225000;235125
+Luck Blade Shortsword;Weapon;Legendary;Major;Yes;Charged; ;DMG;DMG 179;25000;7;175000;50000;225000;235125
+Mace of Disruption;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 179;500;8;4000;1000;5000;8229
+Mace of Smiting;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 179;500;8;4000;1000;5000;8662
+Mace of Terror;Weapon;Rare;Major;Yes;Charged; ;DMG;DMG 180;500;7;3500;1000;4500;7053
+Mace of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Mantle of Spell Resistance;Wondrous Item;Rare;Major;Yes;Permanent; ;DMG;DMG 180;500;8;4000;1000;5000;8229
+Manual of Bodily Health;Wondrous Item;Very Rare;Major;No;Permanent; ;DMG;DMG 180;5000;8;40000;10000;50000;57750
+Manual of Gainful Exercise;Wondrous Item;Very Rare;Major;No;Permanent; ;DMG;DMG 180;5000;8;40000;10000;50000;57750
+Manual of Golems;Wondrous Item;Very Rare;Major;No;Single; ;DMG;DMG 180;5000;5;25000;10000;35000;34650
+Manual of Quickness of Action;Wondrous Item;Very Rare;Major;No;Permanent; ;DMG;DMG 181;5000;8;40000;10000;50000;57750
+Mariner's Breastplate Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 181;50;6;300;100;400;798
+Mariner's Chain Mail Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 181;50;6;300;100;400;798
+Mariner's Chain Shirt Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 181;50;6;300;100;400;798
+Mariner's Half Plate Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 181;50;6;300;100;400;798
+Mariner's Hide Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 181;50;6;300;100;400;798
+Mariner's Leather Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 181;50;6;300;100;400;798
+Mariner's Padded Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 181;50;6;300;100;400;798
+Mariner's Plate Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 181;50;6;300;100;400;798
+Mariner's Ring Mail Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 181;50;6;300;100;400;798
+Mariner's Scale Mail Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 181;50;6;300;100;400;798
+Mariner's Splint Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 181;50;6;300;100;400;798
+Mariner's Studded Leather Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 181;50;6;300;100;400;798
+Maul of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Medallion of Thoughts;Wondrous Item;Uncommon;Major;Yes;Charged; ;DMG;DMG 181;50;7;350;100;450;940
+Mirror of Life Trapping;Wondrous Item;Very Rare;Major;No;Permanent; ;DMG;DMG 181;5000;8;40000;10000;50000;57750
+Mithril Breastplate Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 182;50;6;300;100;400;798
+Mithril Chain Mail Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 182;50;6;300;100;400;798
+Mithril Chain Shirt Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 182;50;6;300;100;400;798
+Mithril Half Plate Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 182;50;6;300;100;400;798
+Mithril Plate Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 182;50;6;300;100;400;798
+Mithril Ring Mail Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 182;50;6;300;100;400;798
+Mithril Scale Mail Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 182;50;6;300;100;400;798
+Mithril Splint Armor;Armor;Uncommon;Minor;No;Permanent; ;DMG;DMG 182;50;6;300;100;400;798
+Morningstar of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Necklace of Adaptation;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 182;50;8;400;100;500;1097
+Necklace of Fireballs;Wondrous Item;Rare;Minor;No;Limited; ;DMG;DMG 182;500;4;2000;1000;3000;4061
+Necklace of Prayer Beads;Wondrous Item;Rare;Major;Yes;Limited; ;DMG;DMG 182;500;6;3000;1000;4000;5956
+Net of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Nine Lives Stealer Greatsword;Weapon;Very Rare;Major;Yes;Limited; ;DMG;DMG 183;5000;6;30000;10000;40000;39710
+Nine Lives Stealer Longsword;Weapon;Very Rare;Major;Yes;Limited; ;DMG;DMG 183;5000;6;30000;10000;40000;39710
+Nine Lives Stealer Rapier;Weapon;Very Rare;Major;Yes;Limited; ;DMG;DMG 183;5000;6;30000;10000;40000;39710
+Nine Lives Stealer Scimitar;Weapon;Very Rare;Major;Yes;Limited; ;DMG;DMG 183;5000;6;30000;10000;40000;39710
+Nine Lives Stealer Shortsword;Weapon;Very Rare;Major;Yes;Limited; ;DMG;DMG 183;5000;6;30000;10000;40000;39710
+Nolzur's Marvelous Pigments;Wondrous Item;Very Rare;Minor;No;Limited; ;DMG;DMG 183;5000;4;20000;10000;30000;27075
+Oathbow;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 183;5000;8;40000;10000;50000;54862
+Oil of Etherealness;Potion;Rare;Minor;No;Single; ;DMG;DMG 183;500;3;1500;1000;2500;2565
+Oil of Sharpness;Potion;Very Rare;Minor;No;Single; ;DMG;DMG 184;5000;3;15000;10000;25000;17100
+Oil of Slipperiness;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 184;50;3;150;100;250;342
+Padded Armor of Acid Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Padded Armor of Cold Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Padded Armor of Fire Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Padded Armor of Force Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Padded Armor of Lightning Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Padded Armor of Necrotic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Padded Armor of Poison Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Padded Armor of Pyschic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Padded Armor of Radiant Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Padded Armor of Thunder Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Pearl of Power;Wondrous Item;Uncommon;Major;Yes;Charged; ;DMG;DMG 184;50;7;350;100;450;940
+Periapt of Health;Wondrous Item;Uncommon;Minor;No;Permanent; ;DMG;DMG 184;50;6;300;100;400;798
+Periapt of Proof Against Poison;Wondrous Item;Rare;Major;No;Permanent; ;DMG;DMG 184;500;8;4000;1000;5000;8662
+Periapt of Wound Closure;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 184;50;8;400;100;500;1097
+Philter of Love;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 184;50;3;150;100;250;342
+Pike of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Pipes of Haunting;Wondrous Item;Uncommon;Major;No;Charged; ;DMG;DMG 185;50;7;350;100;450;990
+Pipes of the Sewers;Wondrous Item;Uncommon;Major;Yes;Charged; ;DMG;DMG 185;50;7;350;100;450;940
+Plate Armor of Acid Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Plate Armor of Cold Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Plate Armor of Etherealness;Armor;Legendary;Major;Yes;Permanent; ;DMG;DMG 185;25000;8;200000;50000;250000;274312
+Plate Armor of Fire Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Plate Armor of Force Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Plate Armor of Invulnerability;Armor;Legendary;Major;Yes;Charged; ;DMG;DMG 152;25000;7;175000;50000;225000;235125
+Plate Armor of Lightning Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Plate Armor of Necrotic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Plate Armor of Poison Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Plate Armor of Pyschic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Plate Armor of Radiant Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Plate Armor of Thunder Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Plate Armor of Vulnerability to Bludgeoning;Armor;Rare;Major;Yes;Permanent;Cursed;DMG;DMG 152;500;8;4000;1000;5000;4114
+Plate Armor of Vulnerability to Piercing;Armor;Rare;Major;Yes;Permanent;Cursed;DMG;DMG 152;500;8;4000;1000;5000;4114
+Plate Armor of Vulnerability to Slashing;Armor;Rare;Major;Yes;Permanent;Cursed;DMG;DMG 152;500;8;4000;1000;5000;4114
+Portable Hole;Wondrous Item;Rare;Minor;No;Permanent; ;DMG;DMG 185;500;6;3000;1000;4000;5985
+Potion of Acid Resistance;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 188;50;3;150;100;250;342
+Potion of Animal Friendship;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 187;50;3;150;100;250;342
+Potion of Clairvoyance;Potion;Rare;Minor;No;Single; ;DMG;DMG 187;500;3;1500;1000;2500;2565
+Potion of Climbing;Potion;Common;Minor;No;Single; ;DMG;DMG 187;15;3;45;20;65;57
+Potion of Cloud Giant Strength;Potion;Very Rare;Minor;No;Single; ;DMG;DMG 187;5000;3;15000;10000;25000;17100
+Potion of Cold Resistance;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 188;50;3;150;100;250;342
+Potion of Diminution;Potion;Rare;Minor;No;Single; ;DMG;DMG 187;500;3;1500;1000;2500;2565
+Potion of Fire Breath;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 187;50;3;150;100;250;342
+Potion of Fire Giant Strength;Potion;Rare;Minor;No;Single; ;DMG;DMG 187;500;3;1500;1000;2500;2565
+Potion of Fire Resistance;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 188;50;3;150;100;250;342
+Potion of Flying;Potion;Very Rare;Minor;No;Single; ;DMG;DMG 187;5000;3;15000;10000;25000;17100
+Potion of Force Resistance;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 188;50;3;150;100;250;342
+Potion of Frost Giant Strength;Potion;Rare;Minor;No;Single; ;DMG;DMG 187;500;3;1500;1000;2500;2565
+Potion of Gaseous Form;Potion;Rare;Minor;No;Single; ;DMG;DMG 187;500;3;1500;1000;2500;2565
+Potion of Greater Healing;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 187;50;3;150;100;250;342
+Potion of Growth;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 187;50;3;150;100;250;342
+Potion of Healing;Potion;Common;Minor;No;Single; ;DMG;DMG 187;15;3;45;20;65;57
+Potion of Heroism;Potion;Rare;Minor;No;Single; ;DMG;DMG 188;500;3;1500;1000;2500;2565
+Potion of Hill Giant Strength;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 187;50;3;150;100;250;342
+Potion of Invisibility;Potion;Very Rare;Minor;No;Single; ;DMG;DMG 188;5000;3;15000;10000;25000;17100
+Potion of Invulnerability;Potion;Rare;Minor;No;Single; ;DMG;DMG 188;500;3;1500;1000;2500;2565
+Potion of Lightning Resistance;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 188;50;3;150;100;250;342
+Potion of Longelivity;Potion;Very Rare;Minor;No;Single;;DMG;DMG 188;5000;3;15000;10000;25000;17100
+Potion of Mind Reading;Potion;Rare;Minor;No;Single; ;DMG;DMG 188;500;3;1500;1000;2500;2565
+Potion of Necrotic Resistance;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 188;50;3;150;100;250;342
+Potion of Poison;Potion;Uncommon;Minor;No;Single;Cursed;DMG;DMG 188;50;3;150;100;250;171
+Potion of Poison Resistance;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 188;50;3;150;100;250;342
+Potion of Psychic Resistance;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 188;50;3;150;100;250;342
+Potion of Radiant Resistance;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 188;50;3;150;100;250;342
+Potion of Speed;Potion;Very Rare;Minor;No;Single; ;DMG;DMG 188;5000;3;15000;10000;25000;17100
+Potion of Stone Giant Strength;Potion;Rare;Minor;No;Single; ;DMG;DMG 187;500;3;1500;1000;2500;2565
+Potion of Storm Giant Strength;Potion;Legendary;Minor;No;Single; ;DMG;DMG 187;25000;3;75000;50000;125000;85500
+Potion of Superior Healing;Potion;Rare;Minor;No;Single; ;DMG;DMG 187;500;3;1500;1000;2500;2565
+Potion of Supreme Healing;Potion;Very Rare;Minor;No;Single; ;DMG;DMG 187;5000;3;15000;10000;25000;17100
+Potion of Thunder Resistance;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 188;50;3;150;100;250;342
+Potion of Vitality;Potion;Very Rare;Minor;No;Single; ;DMG;DMG 188;5000;3;15000;10000;25000;17100
+Potion of Water Breathing;Potion;Uncommon;Minor;No;Single; ;DMG;DMG 188;50;3;150;100;250;342
+Quaal's Feather Token, Anchor;Wondrous Item;Rare;Minor;No;Single; ;DMG;DMG 188;500;3;1500;1000;2500;3206
+Quaal's Feather Token, Bird;Wondrous Item;Rare;Minor;No;Single; ;DMG;DMG 188;500;3;1500;1000;2500;3206
+Quaal's Feather Token, Fan;Wondrous Item;Rare;Minor;No;Single; ;DMG;DMG 188;500;3;1500;1000;2500;3206
+Quaal's Feather Token, Swan Boat;Wondrous Item;Rare;Minor;No;Single; ;DMG;DMG 188;500;3;1500;1000;2500;3206
+Quaal's Feather Token, Tree;Wondrous Item;Rare;Minor;No;Single; ;DMG;DMG 188;500;3;1500;1000;2500;3206
+Quaal's Feather Token, Whip;Wondrous Item;Rare;Minor;No;Single; ;DMG;DMG 188;500;3;1500;1000;2500;3206
+Quarterstaff of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Quiver of Ehlonna;Wondrous Item;Uncommon;Major;No;Permanent; ;DMG;DMG 189;50;8;400;100;500;1155
+Rapier of Life Stealing;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 206;500;8;4000;1000;5000;8229
+Rapier of Vengeance;Weapon;Uncommon;Major;Yes;Permanent;Cursed;DMG;DMG 206;50;8;400;100;500;548
+Rapier of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Rapier of Wounding;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 207;500;8;4000;1000;5000;8229
+Rebutter, Sword of Answering;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 206;25000;8;200000;50000;250000;274312
+Replier, Sword of Answering;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 206;25000;8;200000;50000;250000;274312
+Retorter, Sword of Answering;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 206;25000;8;200000;50000;250000;274312
+Ring Mail Armor of Acid Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Ring Mail Armor of Cold Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Ring Mail Armor of Fire Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Ring Mail Armor of Force Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Ring Mail Armor of Lightning Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Ring Mail Armor of Necrotic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Ring Mail Armor of Poison Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Ring Mail Armor of Pyschic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Ring Mail Armor of Radiant Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Ring Mail Armor of Thunder Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Ring of Acid Resistance;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 192;500;8;4000;1000;5000;8229
+Ring of Air Elemental Command;Ring;Legendary;Major;Yes;Charged; ;DMG;DMG 190;25000;7;175000;50000;225000;235125
+Ring of Animal Influence;Ring;Rare;Major;No;Charged; ;DMG;DMG 189;500;7;3500;1000;4500;7425
+Ring of Cold Resistance;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 192;500;8;4000;1000;5000;8229
+Ring of Djinni Summoning;Ring;Legendary;Major;Yes;Charged; ;DMG;DMG 190;25000;7;175000;50000;225000;235125
+Ring of Earth Elemental Command;Ring;Legendary;Major;Yes;Charged; ;DMG;DMG 190;25000;7;175000;50000;225000;235125
+Ring of Evasion;Ring;Rare;Major;Yes;Charged; ;DMG;DMG 191;500;7;3500;1000;4500;7053
+Ring of Feather Falling;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 191;500;8;4000;1000;5000;8229
+Ring of Fire Elemental Command;Ring;Legendary;Major;Yes;Charged; ;DMG;DMG 190;25000;7;175000;50000;225000;235125
+Ring of Fire Resistance;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 192;500;8;4000;1000;5000;8229
+Ring of Force Resistance;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 192;500;8;4000;1000;5000;8229
+Ring of Free Action;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 191;500;8;4000;1000;5000;8229
+Ring of Invisibility;Ring;Legendary;Major;Yes;Permanent; ;DMG;DMG 191;25000;8;200000;50000;250000;274312
+Ring of Jumping;Ring;Uncommon;Major;Yes;Permanent; ;DMG;DMG 191;50;8;400;100;500;1097
+Ring of Lightning Resistance;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 192;500;8;4000;1000;5000;8229
+Ring of Mind Shielding;Ring;Uncommon;Major;Yes;Permanent; ;DMG;DMG 191;50;8;400;100;500;1097
+Ring of Necrotic Resistance;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 192;500;8;4000;1000;5000;8229
+Ring of Poison Resistance;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 192;500;8;4000;1000;5000;8229
+Ring of Protection;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 191;500;8;4000;1000;5000;8229
+Ring of Pyschic Resistance;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 192;500;8;4000;1000;5000;8229
+Ring of Radiant Resistance;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 192;500;8;4000;1000;5000;8229
+Ring of Regeneration;Ring;Very Rare;Major;Yes;Permanent; ;DMG;DMG 191;5000;8;40000;10000;50000;54862
+Ring of Shooting Stars;Ring;Very Rare;Major;Yes;Charged; ;DMG;DMG 192;5000;7;35000;10000;45000;47025
+Ring of Spell Storing;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 192;500;8;4000;1000;5000;8229
+Ring of Spell Turning;Ring;Legendary;Major;Yes;Permanent; ;DMG;DMG 193;25000;8;200000;50000;250000;274312
+Ring of Swimming;Ring;Uncommon;Minor;No;Permanent; ;DMG;DMG 193;50;6;300;100;400;798
+Ring of Telekinesis;Ring;Very Rare;Major;Yes;Permanent; ;DMG;DMG 193;5000;8;40000;10000;50000;54862
+Ring of Three Wishes;Ring;Legendary;Major;No;Limited; ;DMG;DMG 193;25000;6;150000;50000;200000;209000
+Ring of Thunder Resistance;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 192;500;8;4000;1000;5000;8229
+Ring of Warmth;Ring;Uncommon;Major;Yes;Permanent; ;DMG;DMG 193;50;8;400;100;500;1097
+Ring of Water Elemental Command;Ring;Legendary;Major;Yes;Charged; ;DMG;DMG 190;25000;7;175000;50000;225000;235125
+Ring of Water Walking;Ring;Uncommon;Major;No;Permanent; ;DMG;DMG 193;50;8;400;100;500;1155
+Ring of X-ray Vision;Ring;Rare;Major;Yes;Permanent; ;DMG;DMG 193;500;8;4000;1000;5000;8229
+Ring of the Ram;Ring;Rare;Major;Yes;Charged; ;DMG;DMG 193;500;7;3500;1000;4500;7053
+Robe of Eyes;Wondrous Item;Rare;Major;Yes;Permanent; ;DMG;DMG 193;500;8;4000;1000;5000;8229
+Robe of Scintillating Colors;Wondrous Item;Very Rare;Major;Yes;Charged; ;DMG;DMG 194;5000;7;35000;10000;45000;47025
+Robe of Stars;Wondrous Item;Very Rare;Major;Yes;Charged; ;DMG;DMG 194;5000;7;35000;10000;45000;47025
+Robe of Useful Items;Wondrous Item;Uncommon;Minor;No;Limited; ;DMG;DMG 195;50;4;200;100;300;541
+Robe of the Archmagi;Wondrous Item;Legendary;Major;Yes;Permanent; ;DMG;DMG 194;25000;8;200000;50000;250000;274312
+Rod of Absorption;Rod;Very Rare;Major;Yes;Limited; ;DMG;DMG 195;5000;6;30000;10000;40000;39710
+Rod of Alertness;Rod;Very Rare;Major;Yes;Charged; ;DMG;DMG 196;5000;7;35000;10000;45000;47025
+Rod of Lordly Might;Rod;Legendary;Major;Yes;Charged; ;DMG;DMG 196;25000;7;175000;50000;225000;235125
+Rod of Resurrection;Rod;Legendary;Major;Yes;Charged; ;DMG;DMG 197;25000;7;175000;50000;225000;235125
+Rod of Rulership;Rod;Rare;Major;Yes;Charged; ;DMG;DMG 197;500;7;3500;1000;4500;7053
+Rod of Security;Rod;Very Rare;Major;No;Charged; ;DMG;DMG 197;5000;7;35000;10000;45000;49500
+Rope of Climbing;Wondrous Item;Uncommon;Minor;No;Permanent; ;DMG;DMG 197;50;6;300;100;400;798
+Rope of Entanglement;Wondrous Item;Rare;Major;No;Permanent; ;DMG;DMG 197;500;8;4000;1000;5000;8662
+Saddle of the Cavalier;Wondrous Item;Uncommon;Minor;No;Permanent; ;DMG;DMG 199;50;6;300;100;400;798
+Scale Mail Armor of Acid Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Scale Mail Armor of Cold Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Scale Mail Armor of Fire Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Scale Mail Armor of Force Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Scale Mail Armor of Lightning Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Scale Mail Armor of Necrotic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Scale Mail Armor of Poison Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Scale Mail Armor of Pyschic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Scale Mail Armor of Radiant Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Scale Mail Armor of Thunder Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Scarab of Protection;Wondrous Item;Legendary;Major;Yes;Limited; ;DMG;DMG 199;25000;6;150000;50000;200000;198550
+Scather, Sword of Answering;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 206;25000;8;200000;50000;250000;274312
+Scimitar of Life Stealing;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 206;500;8;4000;1000;5000;8229
+Scimitar of Sharpness;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 206;5000;8;40000;10000;50000;54862
+Scimitar of Speed;Weapon;Very Rare;Major;Yes;Permanent; ;DMG;DMG 199;5000;8;40000;10000;50000;54862
+Scimitar of Vengeance;Weapon;Uncommon;Major;Yes;Permanent;Cursed;DMG;DMG 206;50;8;400;100;500;548
+Scimitar of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Scimitar of Wounding;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 207;500;8;4000;1000;5000;8229
+Scroll of Protection from Aberrations;Scroll;Rare;Minor;No;Single; ;DMG;DMG 199;500;3;1500;1000;2500;3206
+Scroll of Protection from Beasts;Scroll;Rare;Minor;No;Single; ;DMG;DMG 199;500;3;1500;1000;2500;3206
+Scroll of Protection from Celestials;Scroll;Rare;Minor;No;Single; ;DMG;DMG 199;500;3;1500;1000;2500;3206
+Scroll of Protection from Elementals;Scroll;Rare;Minor;No;Single; ;DMG;DMG 199;500;3;1500;1000;2500;3206
+Scroll of Protection from Fey;Scroll;Rare;Minor;No;Single; ;DMG;DMG 199;500;3;1500;1000;2500;3206
+Scroll of Protection from Fiends;Scroll;Rare;Minor;No;Single; ;DMG;DMG 199;500;3;1500;1000;2500;3206
+Scroll of Protection from Plants;Scroll;Rare;Minor;No;Single; ;DMG;DMG 199;500;3;1500;1000;2500;3206
+Scroll of Protection from Undead;Scroll;Rare;Minor;No;Single; ;DMG;DMG 199;500;3;1500;1000;2500;3206
+Sending Stones;Wondrous Item;Uncommon;Minor;No;Charged; ;DMG;DMG 199;50;5;250;100;350;665
+Sentinel Shield;Armor;Uncommon;Major;No;Permanent; ;DMG;DMG 199;50;8;400;100;500;1155
+Shield of Missile Attraction;Armor;Rare;Major;Yes;Permanent;Cursed;DMG;DMG 200;500;8;4000;1000;5000;4114
+Shortbow of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Shortsword of Life Stealing;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 206;500;8;4000;1000;5000;8229
+Shortsword of Vengeance;Weapon;Uncommon;Major;Yes;Permanent;Cursed;DMG;DMG 206;50;8;400;100;500;548
+Shortsword of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Shortsword of Wounding;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 207;500;8;4000;1000;5000;8229
+Sickle of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Sling of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Slippers of Spider Climbing;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 200;50;8;400;100;500;1097
+Sovereign Glue;Wondrous Item;Legendary;Minor;No;Limited; ;DMG;DMG 200;25000;4;100000;50000;150000;135375
+Spear of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Spell Scroll, 1st Level;Scroll;Common;Minor;No;Single; ;DMG;DMG 200;15;3;45;20;65;72
+Spell Scroll, 2nd Level;Scroll;Uncommon;Minor;No;Single; ;DMG;DMG 200;50;3;150;100;250;427
+Spell Scroll, 3rd Level;Scroll;Uncommon;Minor;No;Single; ;DMG;DMG 200;50;3;150;100;250;427
+Spell Scroll, 4th Level;Scroll;Rare;Minor;No;Single; ;DMG;DMG 200;500;3;1500;1000;2500;3206
+Spell Scroll, 5th Level;Scroll;Rare;Minor;No;Single; ;DMG;DMG 200;500;3;1500;1000;2500;3206
+Spell Scroll, 6th Level;Scroll;Very Rare;Minor;No;Single; ;DMG;DMG 200;5000;3;15000;10000;25000;21375
+Spell Scroll, 7th Level;Scroll;Very Rare;Minor;No;Single; ;DMG;DMG 200;5000;3;15000;10000;25000;21375
+Spell Scroll, 8th Level;Scroll;Very Rare;Minor;No;Single; ;DMG;DMG 200;5000;3;15000;10000;25000;21375
+Spell Scroll, 9th Level;Scroll;Legendary;Minor;No;Single; ;DMG;DMG 200;25000;3;75000;50000;125000;106875
+Spell Scroll, Cantrip;Scroll;Common;Minor;No;Single; ;DMG;DMG 200;15;3;45;20;65;72
+Spellguard Shield;Armor;Very Rare;Major;Yes;Permanent; ;DMG;DMG 201;5000;8;40000;10000;50000;54862
+Sphere of Annihilation;Wondrous Item;Legendary;Major;No;Permanent; ;DMG;DMG 201;25000;8;200000;50000;250000;288750
+Splint Armor of Acid Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Splint Armor of Cold Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Splint Armor of Fire Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Splint Armor of Force Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Splint Armor of Lightning Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Splint Armor of Necrotic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Splint Armor of Poison Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Splint Armor of Pyschic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Splint Armor of Radiant Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Splint Armor of Thunder Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Squelcher, Sword of Answering;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 206;25000;8;200000;50000;250000;274312
+Staff of Charming;Staff;Rare;Major;Yes;Charged; ;DMG;DMG 201;500;7;3500;1000;4500;7053
+Staff of Fire;Staff;Very Rare;Major;Yes;Charged; ;DMG;DMG 201;5000;7;35000;10000;45000;47025
+Staff of Frost;Staff;Very Rare;Major;Yes;Charged; ;DMG;DMG 202;5000;7;35000;10000;45000;47025
+Staff of Healing;Staff;Rare;Major;Yes;Charged; ;DMG;DMG 202;500;7;3500;1000;4500;7053
+Staff of Power;Staff;Very Rare;Major;Yes;Charged; ;DMG;DMG 202;5000;7;35000;10000;45000;47025
+Staff of Striking;Staff;Very Rare;Major;Yes;Charged; ;DMG;DMG 203;5000;7;35000;10000;45000;47025
+Staff of Swarming Insects;Staff;Rare;Major;Yes;Charged; ;DMG;DMG 203;500;7;3500;1000;4500;7053
+Staff of Thunder and Lightning;Staff;Very Rare;Major;Yes;Charged; ;DMG;DMG 204;5000;7;35000;10000;45000;47025
+Staff of Withering;Staff;Rare;Major;Yes;Charged; ;DMG;DMG 205;500;7;3500;1000;4500;7053
+Staff of the Adder;Staff;Uncommon;Major;Yes;Permanent; ;DMG;DMG 203;50;8;400;100;500;1097
+Staff of the Magi;Staff;Legendary;Major;Yes;Charged; ;DMG;DMG 203;25000;7;175000;50000;225000;235125
+Staff of the Python;Staff;Uncommon;Major;Yes;Permanent; ;DMG;DMG 204;50;8;400;100;500;1097
+Staff of the Woodlands;Staff;Rare;Major;Yes;Charged; ;DMG;DMG 204;500;7;3500;1000;4500;7053
+Stone of Controlling Earth Elementals;Wondrous Item;Rare;Major;No;Charged; ;DMG;DMG 205;500;7;3500;1000;4500;7425
+Stone of Good Luck;Wondrous Item;Uncommon;Major;Yes;Permanent; ;DMG;DMG 205;50;8;400;100;500;1097
+Studded Leather Armor of Acid Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Studded Leather Armor of Cold Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Studded Leather Armor of Fire Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Studded Leather Armor of Force Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Studded Leather Armor of Lightning Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Studded Leather Armor of Necrotic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Studded Leather Armor of Poison Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Studded Leather Armor of Pyschic Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Studded Leather Armor of Radiant Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Studded Leather Armor of Thunder Resistance;Armor;Rare;Major;Yes;Permanent; ;DMG;DMG 152;500;8;4000;1000;5000;8229
+Sun Blade;Weapon;Rare;Major;Yes;Permanent; ;DMG;DMG 205;500;8;4000;1000;5000;8229
+Talisman of Pure Good;Wondrous Item;Legendary;Major;Yes;Limited; ;DMG;DMG 207;25000;6;150000;50000;200000;198550
+Talisman of Ultimate Evil;Wondrous Item;Legendary;Major;Yes;Limited; ;DMG;DMG 207;25000;6;150000;50000;200000;198550
+Talisman of the Sphere;Wondrous Item;Legendary;Major;Yes;Permanent; ;DMG;DMG 207;25000;8;200000;50000;250000;274312
+Tentacle Rod;Rod;Rare;Major;Yes;Permanent; ;DMG;DMG 208;500;8;4000;1000;5000;8229
+Tome of Clear Thought;Wondrous Item;Very Rare;Major;No;Permanent; ;DMG;DMG 208;5000;8;40000;10000;50000;57750
+Tome of Leadership and Influence;Wondrous Item;Very Rare;Major;No;Permanent; ;DMG;DMG 208;5000;8;40000;10000;50000;57750
+Tome of Understanding;Wondrous Item;Very Rare;Major;No;Permanent; ;DMG;DMG 209;5000;8;40000;10000;50000;57750
+Tome of the Stilled Tongue;Wondrous Item;Legendary;Major;Yes;Charged; ;DMG;DMG 208;25000;7;175000;50000;225000;235125
+Trident of Fish Command;Weapon;Uncommon;Major;Yes;Charged; ;DMG;DMG 209;50;7;350;100;450;940
+Trident of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Universal Solvent;Wondrous Item;Legendary;Minor;No;Single; ;DMG;DMG 209;25000;3;75000;50000;125000;106875
+Vicious Battleaxe;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Blowgun;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Club;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Dagger;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Dart;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Flail;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Glaive;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Greataxe;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Greatclub;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Greatsword;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Halberd;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Hand Crossbow;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Handaxe;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Heavy Crossbow;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Javelin;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Lance;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Light Crossbow;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Light Hammer;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Longbow;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Longsword;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Mace;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Maul;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Morningstar;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Net;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Pike;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Quarterstaff;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Rapier;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Scimitar;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Shortbow;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Shortsword;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Sickle;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Sling;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Spear;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Trident;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious War Pick;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Warhammer;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vicious Whip;Weapon;Rare;Major;No;Permanent; ;DMG;DMG 209;500;8;4000;1000;5000;8662
+Vorpal Greatsword;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 209;25000;8;200000;50000;250000;274312
+Vorpal Longsword;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 209;25000;8;200000;50000;250000;274312
+Vorpal Scimitar;Weapon;Legendary;Major;Yes;Permanent; ;DMG;DMG 209;25000;8;200000;50000;250000;274312
+Wand of Binding;Wand;Rare;Major;Yes;Charged; ;DMG;DMG 209;500;7;3500;1000;4500;7053
+Wand of Enemy Detection;Wand;Rare;Major;Yes;Charged; ;DMG;DMG 210;500;7;3500;1000;4500;7053
+Wand of Fear;Wand;Rare;Major;Yes;Charged; ;DMG;DMG 210;500;7;3500;1000;4500;7053
+Wand of Fireballs;Wand;Rare;Major;Yes;Charged; ;DMG;DMG 210;500;7;3500;1000;4500;7053
+Wand of Lightning Bolts;Wand;Rare;Major;Yes;Charged; ;DMG;DMG 211;500;7;3500;1000;4500;7053
+Wand of Magic Detection;Wand;Uncommon;Minor;No;Charged; ;DMG;DMG 211;50;5;250;100;350;665
+Wand of Magic Missiles;Wand;Uncommon;Major;No;Charged; ;DMG;DMG 211;50;7;350;100;450;990
+Wand of Paralysis;Wand;Rare;Major;Yes;Charged; ;DMG;DMG 211;500;7;3500;1000;4500;7053
+Wand of Polymorph;Wand;Very Rare;Major;Yes;Charged; ;DMG;DMG 211;5000;7;35000;10000;45000;47025
+Wand of Secrets;Wand;Uncommon;Minor;No;Charged; ;DMG;DMG 211;50;5;250;100;350;665
+Wand of Web;Wand;Uncommon;Major;Yes;Charged; ;DMG;DMG 212;50;7;350;100;450;940
+Wand of Wonder;Wand;Rare;Major;Yes;Charged; ;DMG;DMG 212;500;7;3500;1000;4500;7053
+War Pick of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Warhammer of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Well of Many Worlds;Wondrous Item;Legendary;Major;No;Charged; ;DMG;DMG 213;25000;7;175000;50000;225000;247500
+Whip of Warning;Weapon;Uncommon;Major;Yes;Permanent; ;DMG;DMG 213;50;8;400;100;500;1097
+Wind Fan;Wondrous Item;Uncommon;Major;No;Charged; ;DMG;DMG 213;50;7;350;100;450;990
+Winged Boots;Wondrous Item;Uncommon;Major;Yes;Charged; ;DMG;DMG 214;50;7;350;100;450;940
+Wings of Flying;Wondrous Item;Rare;Major;Yes;Charged; ;DMG;DMG 214;500;7;3500;1000;4500;7053

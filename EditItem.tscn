@@ -1,0 +1,383 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://EditItem.gd" type="Script" id=1]
+
+[sub_resource type="ButtonGroup" id=1]
+resource_name = "Rarity"
+
+[sub_resource type="ButtonGroup" id=2]
+resource_name = "newtype"
+
+[sub_resource type="ButtonGroup" id=3]
+resource_name = "Uses"
+
+[sub_resource type="ButtonGroup" id=4]
+resource_name = "MinMaj"
+
+[node name="WindowDialog" type="WindowDialog"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 50.0
+margin_top = 50.0
+margin_right = -29.0
+margin_bottom = -304.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false,
+"_editor_description_": ""
+}
+pathName = NodePath("EditItem/VBoxContainer/HBoxContainer/edName")
+pathSource = NodePath("EditItem/VBoxContainer/HBoxContainer/edSource")
+pathPage = NodePath("EditItem/VBoxContainer/HBoxContainer/edPage")
+pathAttune = NodePath("EditItem/VBoxContainer/HBoxContainer2/vbSpecial/cbAttun")
+pathCurse = NodePath("EditItem/VBoxContainer/HBoxContainer2/vbSpecial/cbCursed")
+pathRarity = NodePath("EditItem/VBoxContainer/HBoxContainer2/vbRarity/cbCommon")
+pathType = NodePath("EditItem/VBoxContainer/HBoxContainer2/vbType/GridContainer/CheckBox")
+pathUses = NodePath("EditItem/VBoxContainer/HBoxContainer2/vbUses/CheckBox")
+pathMinMaj = NodePath("EditItem/VBoxContainer/HBoxContainer2/vbMinMaj/CheckBox")
+
+[node name="EditItem" type="ColorRect" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 0.239216, 0.152941, 0.486275, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="VBoxContainer" type="VBoxContainer" parent="EditItem"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_constants/separation = 19
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="HBoxContainer" type="HBoxContainer" parent="EditItem/VBoxContainer"]
+margin_right = 945.0
+margin_bottom = 24.0
+
+[node name="Label" type="Label" parent="EditItem/VBoxContainer/HBoxContainer"]
+margin_top = 5.0
+margin_right = 46.0
+margin_bottom = 19.0
+text = "Name: "
+
+[node name="edName" type="LineEdit" parent="EditItem/VBoxContainer/HBoxContainer"]
+margin_left = 50.0
+margin_right = 740.0
+margin_bottom = 24.0
+size_flags_horizontal = 3
+caret_blink = true
+caret_blink_speed = 0.5
+
+[node name="Label2" type="Label" parent="EditItem/VBoxContainer/HBoxContainer"]
+margin_left = 744.0
+margin_top = 5.0
+margin_right = 787.0
+margin_bottom = 19.0
+text = "Source"
+
+[node name="edSource" type="LineEdit" parent="EditItem/VBoxContainer/HBoxContainer"]
+margin_left = 791.0
+margin_right = 849.0
+margin_bottom = 24.0
+caret_blink = true
+caret_blink_speed = 0.5
+
+[node name="Label3" type="Label" parent="EditItem/VBoxContainer/HBoxContainer"]
+margin_left = 853.0
+margin_top = 5.0
+margin_right = 883.0
+margin_bottom = 19.0
+text = "Page"
+
+[node name="edPage" type="LineEdit" parent="EditItem/VBoxContainer/HBoxContainer"]
+margin_left = 887.0
+margin_right = 945.0
+margin_bottom = 24.0
+caret_blink = true
+caret_blink_speed = 0.5
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="EditItem/VBoxContainer"]
+margin_top = 43.0
+margin_right = 945.0
+margin_bottom = 197.0
+custom_constants/separation = 65
+
+[node name="vbRarity" type="VBoxContainer" parent="EditItem/VBoxContainer/HBoxContainer2"]
+margin_right = 103.0
+margin_bottom = 154.0
+
+[node name="Label" type="Label" parent="EditItem/VBoxContainer/HBoxContainer2/vbRarity"]
+margin_right = 103.0
+margin_bottom = 14.0
+text = "Rarity"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="cbCommon" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbRarity"]
+margin_top = 18.0
+margin_right = 103.0
+margin_bottom = 42.0
+pressed = true
+group = SubResource( 1 )
+text = "Common"
+
+[node name="CheckBox2" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbRarity"]
+margin_top = 46.0
+margin_right = 103.0
+margin_bottom = 70.0
+group = SubResource( 1 )
+text = "Uncommon"
+
+[node name="CheckBox3" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbRarity"]
+margin_top = 74.0
+margin_right = 103.0
+margin_bottom = 98.0
+group = SubResource( 1 )
+text = "Rare"
+
+[node name="CheckBox4" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbRarity"]
+margin_top = 102.0
+margin_right = 103.0
+margin_bottom = 126.0
+group = SubResource( 1 )
+text = "Very Rare"
+
+[node name="CheckBox5" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbRarity"]
+margin_top = 130.0
+margin_right = 103.0
+margin_bottom = 154.0
+group = SubResource( 1 )
+text = "Legendary"
+
+[node name="vbType" type="VBoxContainer" parent="EditItem/VBoxContainer/HBoxContainer2"]
+margin_left = 168.0
+margin_right = 367.0
+margin_bottom = 154.0
+
+[node name="Label" type="Label" parent="EditItem/VBoxContainer/HBoxContainer2/vbType"]
+margin_right = 199.0
+margin_bottom = 14.0
+text = "Type"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="GridContainer" type="GridContainer" parent="EditItem/VBoxContainer/HBoxContainer2/vbType"]
+margin_top = 18.0
+margin_right = 199.0
+margin_bottom = 154.0
+columns = 2
+
+[node name="CheckBox" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbType/GridContainer"]
+margin_right = 127.0
+margin_bottom = 24.0
+pressed = true
+group = SubResource( 2 )
+text = "Weapon"
+
+[node name="CheckBox2" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbType/GridContainer"]
+margin_left = 131.0
+margin_right = 199.0
+margin_bottom = 24.0
+group = SubResource( 2 )
+text = "Armor"
+
+[node name="CheckBox3" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbType/GridContainer"]
+margin_top = 28.0
+margin_right = 127.0
+margin_bottom = 52.0
+group = SubResource( 2 )
+text = "Potion"
+
+[node name="CheckBox4" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbType/GridContainer"]
+margin_left = 131.0
+margin_top = 28.0
+margin_right = 199.0
+margin_bottom = 52.0
+group = SubResource( 2 )
+text = "Ring"
+
+[node name="CheckBox5" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbType/GridContainer"]
+margin_top = 56.0
+margin_right = 127.0
+margin_bottom = 80.0
+group = SubResource( 2 )
+text = "Rod"
+
+[node name="CheckBox6" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbType/GridContainer"]
+margin_left = 131.0
+margin_top = 56.0
+margin_right = 199.0
+margin_bottom = 80.0
+group = SubResource( 2 )
+text = "Scroll"
+
+[node name="CheckBox7" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbType/GridContainer"]
+margin_top = 84.0
+margin_right = 127.0
+margin_bottom = 108.0
+group = SubResource( 2 )
+text = "Staff"
+
+[node name="CheckBox8" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbType/GridContainer"]
+margin_left = 131.0
+margin_top = 84.0
+margin_right = 199.0
+margin_bottom = 108.0
+group = SubResource( 2 )
+text = "Wand"
+
+[node name="CheckBox9" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbType/GridContainer"]
+margin_top = 112.0
+margin_right = 127.0
+margin_bottom = 136.0
+group = SubResource( 2 )
+text = "Wandrous Item"
+
+[node name="vbUses" type="VBoxContainer" parent="EditItem/VBoxContainer/HBoxContainer2"]
+margin_left = 432.0
+margin_right = 530.0
+margin_bottom = 154.0
+
+[node name="Label" type="Label" parent="EditItem/VBoxContainer/HBoxContainer2/vbUses"]
+margin_right = 98.0
+margin_bottom = 14.0
+text = "Uses"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="CheckBox" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbUses"]
+margin_top = 18.0
+margin_right = 98.0
+margin_bottom = 42.0
+pressed = true
+group = SubResource( 3 )
+text = "Single"
+
+[node name="CheckBox2" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbUses"]
+margin_top = 46.0
+margin_right = 98.0
+margin_bottom = 70.0
+group = SubResource( 3 )
+text = "Limited"
+
+[node name="CheckBox3" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbUses"]
+margin_top = 74.0
+margin_right = 98.0
+margin_bottom = 98.0
+group = SubResource( 3 )
+text = "Charged"
+
+[node name="CheckBox4" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbUses"]
+margin_top = 102.0
+margin_right = 98.0
+margin_bottom = 126.0
+group = SubResource( 3 )
+text = "Permanent"
+
+[node name="vbMinMaj" type="VBoxContainer" parent="EditItem/VBoxContainer/HBoxContainer2"]
+margin_left = 595.0
+margin_right = 673.0
+margin_bottom = 154.0
+
+[node name="Label" type="Label" parent="EditItem/VBoxContainer/HBoxContainer2/vbMinMaj"]
+margin_right = 78.0
+margin_bottom = 14.0
+text = "Minor/Major"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="CheckBox" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbMinMaj"]
+margin_top = 18.0
+margin_right = 78.0
+margin_bottom = 42.0
+pressed = true
+group = SubResource( 4 )
+text = "Minor"
+
+[node name="CheckBox2" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbMinMaj"]
+margin_top = 46.0
+margin_right = 78.0
+margin_bottom = 70.0
+group = SubResource( 4 )
+text = "Major"
+
+[node name="vbSpecial" type="VBoxContainer" parent="EditItem/VBoxContainer/HBoxContainer2"]
+margin_left = 738.0
+margin_right = 843.0
+margin_bottom = 154.0
+
+[node name="Label" type="Label" parent="EditItem/VBoxContainer/HBoxContainer2/vbSpecial"]
+margin_right = 105.0
+margin_bottom = 14.0
+text = "Special"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="cbAttun" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbSpecial"]
+margin_top = 18.0
+margin_right = 105.0
+margin_bottom = 42.0
+text = "Attunement"
+
+[node name="cbCursed" type="CheckBox" parent="EditItem/VBoxContainer/HBoxContainer2/vbSpecial"]
+margin_top = 46.0
+margin_right = 105.0
+margin_bottom = 70.0
+text = "Cursed"
+
+[node name="HBoxContainer3" type="HBoxContainer" parent="EditItem/VBoxContainer"]
+margin_top = 216.0
+margin_right = 945.0
+margin_bottom = 236.0
+custom_constants/separation = 30
+alignment = 1
+
+[node name="Button" type="Button" parent="EditItem/VBoxContainer/HBoxContainer3"]
+margin_left = 367.0
+margin_right = 408.0
+margin_bottom = 20.0
+text = "Save"
+
+[node name="Button2" type="Button" parent="EditItem/VBoxContainer/HBoxContainer3"]
+margin_left = 438.0
+margin_right = 492.0
+margin_bottom = 20.0
+text = "Cancel"
+
+[node name="DelButton" type="Button" parent="EditItem/VBoxContainer/HBoxContainer3"]
+margin_left = 522.0
+margin_right = 577.0
+margin_bottom = 20.0
+text = "Delete"
+
+[node name="ConfirmationDialog" type="ConfirmationDialog" parent="EditItem"]
+margin_left = 392.887
+margin_top = 122.053
+margin_right = 592.887
+margin_bottom = 192.053
+popup_exclusive = true
+dialog_text = "Item Exists. Override?"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="DelConfirmDialog" type="ConfirmationDialog" parent="EditItem"]
+margin_left = 416.051
+margin_top = 106.908
+margin_right = 616.051
+margin_bottom = 176.908
+popup_exclusive = true
+dialog_text = "Confirm Deleten of Item"
+
+[connection signal="pressed" from="EditItem/VBoxContainer/HBoxContainer3/Button" to="." method="_on_Save_Button_pressed"]
+[connection signal="pressed" from="EditItem/VBoxContainer/HBoxContainer3/Button2" to="." method="_on_Cancel_pressed"]
+[connection signal="pressed" from="EditItem/VBoxContainer/HBoxContainer3/DelButton" to="." method="_on_DelButton_pressed"]
+[connection signal="confirmed" from="EditItem/ConfirmationDialog" to="." method="_on_ConfirmationDialog_confirmed"]
+[connection signal="confirmed" from="EditItem/DelConfirmDialog" to="." method="_on_DelConfirmDialog_confirmed"]
